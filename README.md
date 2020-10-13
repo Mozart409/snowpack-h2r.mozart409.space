@@ -1,4 +1,4 @@
-# New Project
+# h2r.mozart409.space
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
